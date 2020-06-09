@@ -1,2 +1,3 @@
 #EXTM3U
-http://wow.adonainy.com:1935/live/smil:avivame.smil/playlist.m3u8
+#EXT-X-STREAM-INF:
+http://wow.adonainy.com:1935/live/smil:avivame.smil/chunklist_w645819519_b764100_sleng.m3u8

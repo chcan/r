@@ -1,2 +1,3 @@
 #EXTM3U
-http://ss6.domint.net:1946/vct_str/vctv/.m3u8
+#EXT-X-STREAM-INF:
+http://ss6.domint.net:1946/vct_str/vctv/chunklist_w1945909491.m3u8

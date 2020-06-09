@@ -1,2 +1,3 @@
 #EXTM3U
-https://livestreamcdn.net:444/AlcanceTV/AlcanceTV/playlist.m3u8
+#EXT-X-STREAM-INF:
+https://livestreamcdn.net:444/AlcanceTV/AlcanceTV/chunklist_w2117501072.m3u8

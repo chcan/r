@@ -1,2 +1,3 @@
 #EXTM3U
-http://50.30.37.36:1935/live/stream/playlist.m3u8
+#EXT-X-STREAM-INF:
+http://50.30.37.36:1935/live/stream/chunklist_w352684165.m3u8

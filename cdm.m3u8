@@ -1,2 +1,3 @@
 #EXTM3U
-https://59825a54e4454.streamlock.net:8443/marcos536/marcos536/playlist.m3u8
+#EXT-X-STREAM-INF:
+https://59825a54e4454.streamlock.net:8443/marcos536/marcos536/chunklist_w108646140.m3u8
